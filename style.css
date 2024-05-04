@@ -1,0 +1,150 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: SF PRO DISPLAY;
+  }
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+  }
+  .main{
+    position: relative;
+    overflow: hidden;
+}
+.page1{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+ 
+}
+.page2{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.page3{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.logo{
+    height: 800px;
+    width: 100%;
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Digital_Globe_1_SW_Hill_Horiz_9707_Desktop_11a0425f53.jpg);
+   background-size: cover;
+    
+}
+.logo2{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Star6_55_050224_DSC_4769_desktop_f9b63498bc.jpg);
+    background-size: cover;
+}
+.logo3{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(make_life_multiplanetary_desktop_3fa7cff73c.jpg);
+    background-size: cover;
+}
+.logo4{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Galileo_L12_PPF_DSC_6049_desktop_cef1bc1758.jpg);
+    background-size: cover;
+}
+.logo5{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(Flight_3_Website_Desktop_2_8cd1983689.jpg);
+    background-size: cover;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+.text1{
+   
+    padding-top: 500px;
+    padding-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.text2{
+   
+    padding-top: 10px;
+    padding-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.text3{
+    padding-top: 40px;
+    padding-left: 100px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+button{
+    height: 60px;
+ width: 150px;
+   border: 2px solid white;
+    color: white;
+    background-color: rgba(135, 212, 243, 0.125);
+}
+.text0{
+    padding-top: 500px;
+    padding-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.text4{
+    padding-top: 0px;
+    padding-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   
+}
+.first{
+    color: rgba(243, 236, 236, 0.854);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bolder;
+}
+.second{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight:bolder;
+}
+.third{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight:bolder;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    
+}
